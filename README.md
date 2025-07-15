@@ -1,2 +1,10 @@
-# nyt-connections-generator
-A python program which uses skills learned while taking this course: https://www.mathos.unios.hr/en/kolegiji/racunalno-jezikoslovlje/. Using libraries nltk and gensim, it uses Word2Vec model to make an instance of a single NYT Connections "game".
+# *NYT Connections* generator
+A python program which uses skills learned while taking this course: [](https://www.mathos.unios.hr/en/kolegiji/racunalno-jezikoslovlje/). Using libraries `nltk` and `gensim`, it uses `gensim`'s Word2Vec model to make an instance of a single *NTY Connections* "game".
+
+## What this repository contains?
+  - Python notebook in Croatian which examines what the project is about and how it works
+
+## What will be added to this repository?
+  - Python notebook in English which examines what the project is about and how it works
+  - A video in Croatian going about it in more detail
+  - A single Python script which will work as a single program
