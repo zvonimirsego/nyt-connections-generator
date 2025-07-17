@@ -41,9 +41,9 @@ You need to type out your guess of 4 words into it, divided by space. Here is an
 
 And here is an example for when an incorrect attempt is made:
 
-![box_correct](box_wrong.png)
+![box_wrong](box_wrong.png)
 
-![correct_new_table](wrong_new_table.png)
+![wrong_new_table](wrong_new_table.png)
 
 You can also type in `hint`, which will output a similarity matrix between the words still left in the table.
 
@@ -53,7 +53,7 @@ You can also type in `hint`, which will output a similarity matrix between the w
 
 You have 4 attempts, each attempt is reduced if you guess wrong. If your guess is correct, no attempt is subtracted.
 
-In the end there will be a `GAME OVER!` message, with the appropriate message depending on wether you won or lost the game. Then, correct groups will be printed in the order of thoughness (in the order they were generated) and how many hints you've used in the game
+In the end there will be a `GAME OVER!` message, with the appropriate message depending on wether you won or lost the game. Then, correct groups will be printed in the order of thoughness (in the order they were generated) and how many hints you've used in the game. Have fun playing this *NYT Connections* copy 😄.
 
 ## Literature
   - [nltk](https://www.nltk.org/)
