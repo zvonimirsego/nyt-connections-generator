@@ -13,6 +13,7 @@ A project made in Python which uses skills learned while taking this course: [li
   - `jupyterlab` installed, in case it is needed to open .ipynb files
   - `nltk`, `gensim` and `pandas` libraries are not required, but it would be beneficiary to have them preinstalled.
   - [Google Word2Vec model](https://code.google.com/archive/p/word2vec/) installed, not a requirement but it would save a lot of time
+
 Libraries can be downloaded using `pip install jupyterlab nltk gensim pandas` (use only the library names you need to install) in your command prompt.
 
 ## How to play?
