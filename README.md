@@ -27,29 +27,29 @@ If this is the case, you can just run the last two cells. If for some reason it 
 ### General playing
 When second-to-last cell is finished running, a table of 16 words will appear like this
 
-![connections_1](connections_1.png)
+![connections_1](gfx/connections_1.png)
 
 Then, a box for input will pop up like this.
 
-![box_empty](box_empty.png)
+![box_empty](gfx/box_empty.png)
 
 You need to type out your guess of 4 words into it, divided by space. Here is an example when a correct attempt it made:
 
-![box_correct](box_correct.png)
+![box_correct](gfx/box_correct.png)
 
-![correct_new_table](correct_new_table.png)
+![correct_new_table](gfx/correct_new_table.png)
 
 And here is an example for when an incorrect attempt is made:
 
-![box_wrong](box_wrong.png)
+![box_wrong](gfx/box_wrong.png)
 
-![wrong_new_table](wrong_new_table.png)
+![wrong_new_table](gfx/wrong_new_table.png)
 
 You can also type in `hint`, which will output a similarity matrix between the words still left in the table.
 
-![box_hint](box_hint.png)
+![box_hint](gfx/box_hint.png)
 
-![hint_matrix](hint_matrix.png)
+![hint_matrix](gfx/hint_matrix.png)
 
 You have 4 attempts, each attempt is reduced if you guess wrong. If your guess is correct, no attempt is subtracted.
 
