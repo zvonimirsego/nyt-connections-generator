@@ -3,11 +3,11 @@ A project made in Python which uses skills learned while taking this course: [li
 
 ## What this repository contains?
   - Python notebook in Croatian which examines what the project is about and how it works
+  - A single Python script which will work as a single program (main.py)
 
 ## What will be added to this repository?
   - Python notebook in English which examines what the project is about and how it works
-  - A video in Croatian going about it in more detail
-  - A single Python script which will work as a single program
+  - ~~A video in Croatian going about it in more detail~~ (cancelled for now)
 
 ## Requirements
   - `jupyterlab` installed, in case it is needed to open .ipynb files
